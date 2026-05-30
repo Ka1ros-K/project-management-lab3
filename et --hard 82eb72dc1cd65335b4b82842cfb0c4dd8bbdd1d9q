@@ -1,0 +1,44 @@
+[33mcommit ba281ec0f72579ba1071461abfa853a624dd0ad8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ka1ros-K <1845394872@qq.com>
+Date:   Sat May 30 23:02:31 2026 +0800
+
+    Update README.md
+    
+    添加实验完成标记
+
+[33mcommit 82eb72dc1cd65335b4b82842cfb0c4dd8bbdd1d9[m
+Merge: 0e103a5 64fd802
+Author: Ka1ros-K <1845394872@qq.com>
+Date:   Sat May 30 21:07:49 2026 +0800
+
+    解决冲突：合并bugfix分支，保留乘法和除法函数
+
+[33mcommit 0e103a54677dea8ddbaf4cdfebe0fedd5d286826[m
+Author: Ka1ros-K <1845394872@qq.com>
+Date:   Sat May 30 21:07:38 2026 +0800
+
+    功能扩展：添加除法函数
+
+[33mcommit 64fd8027027e3eed6654766c92e0cab9bc878915[m
+Author: Ka1ros-K <1845394872@qq.com>
+Date:   Sat May 30 21:07:29 2026 +0800
+
+    修复：为工具函数添加文档字符串和乘法函数
+
+[33mcommit 930f08e5e6cc937bd77de8d2810ce2d3472afde3[m
+Author: Ka1ros-K <1845394872@qq.com>
+Date:   Sat May 30 21:06:09 2026 +0800
+
+    新功能：添加登录模块
+
+[33mcommit 541dae130c31ad233d35ee8289ba2450c313cdfa[m
+Author: Ka1ros-K <1845394872@qq.com>
+Date:   Sat May 30 21:05:47 2026 +0800
+
+    功能更新：main.py调用utils工具函数
+
+[33mcommit c7212335351902a5b74c50bf432ae3a9279f1f7f[m
+Author: Ka1ros-K <1845394872@qq.com>
+Date:   Sat May 30 21:05:38 2026 +0800
+
+    初始提交：创建项目基础文件
